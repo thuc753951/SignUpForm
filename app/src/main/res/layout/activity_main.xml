@@ -62,13 +62,13 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="97dp"
         android:ems="10"
+        android:hint="Enter Your Email"
         android:inputType="textEmailAddress"
         android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="@+id/textEmail"
         app:layout_constraintStart_toEndOf="@+id/textEmail"
         app:layout_constraintTop_toTopOf="@+id/textEmail"
-        tools:ignore="SpeakableTextPresentCheck"
-        android:autofillHints="" />
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/editTextConfirm"
@@ -76,13 +76,13 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:ems="10"
+        android:hint="Re-enter Password"
         android:inputType="textPassword"
         android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="@+id/textConfirm"
         app:layout_constraintStart_toEndOf="@+id/textConfirm"
         app:layout_constraintTop_toTopOf="@+id/textConfirm"
-        tools:ignore="SpeakableTextPresentCheck"
-        android:autofillHints="" />
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/editTextPassword"
@@ -90,13 +90,13 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="69dp"
         android:ems="10"
+        android:hint="Enter Password"
         android:inputType="textPassword"
         android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="@+id/textPass"
         app:layout_constraintStart_toEndOf="@+id/textPass"
         app:layout_constraintTop_toTopOf="@+id/textPass"
-        tools:ignore="SpeakableTextPresentCheck"
-        android:autofillHints="" />
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/editTextUser"
@@ -104,13 +104,13 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="62dp"
         android:ems="10"
+        android:hint="Enter UserName"
         android:inputType="textPersonName"
         android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="@+id/textUser"
         app:layout_constraintStart_toEndOf="@+id/textUser"
         app:layout_constraintTop_toTopOf="@+id/textUser"
-        tools:ignore="SpeakableTextPresentCheck"
-        android:autofillHints="" />
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <EditText
         android:id="@+id/editTextName"
@@ -118,11 +118,21 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="94dp"
         android:ems="10"
+        android:hint="Enter Your Name"
         android:inputType="textPersonName"
         android:minHeight="48dp"
         app:layout_constraintBottom_toBottomOf="@+id/textName"
         app:layout_constraintStart_toEndOf="@+id/textName"
         app:layout_constraintTop_toTopOf="@+id/textName"
-        tools:ignore="SpeakableTextPresentCheck"
-        android:autofillHints="" />
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="save"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextEmail" />
 </androidx.constraintlayout.widget.ConstraintLayout>
