@@ -10,9 +10,11 @@ Creating a sign up form on android using Kotlin
   - The error messages also disappear after a few seconds. 
   
   
-<blockquote class="imgur-embed-pub" lang="en" data-id="vivFEfx"><a href="https://imgur.com/vivFEfx">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
- 
-<blockquote class="imgur-embed-pub" lang="en" data-id="DM16prC"><a href="https://imgur.com/DM16prC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
- 
-[img]https://i.imgur.com/g6lLj3M.png[/img]
- 
+
+![alt text](https://github.com/thuc753951/SignUpForm/blob/8e26c1251aaa26d8d6a295f311eef01f3bce700f/Capture1.PNG)
+
+
+![alt text](https://github.com/thuc753951/SignUpForm/blob/8e26c1251aaa26d8d6a295f311eef01f3bce700f/Capture2.PNG)
+
+
+![alt text](https://github.com/thuc753951/SignUpForm/blob/8e26c1251aaa26d8d6a295f311eef01f3bce700f/Capture3.PNG)
