@@ -14,5 +14,5 @@ Creating a sign up form on android using Kotlin
  
 <blockquote class="imgur-embed-pub" lang="en" data-id="DM16prC"><a href="https://imgur.com/DM16prC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
  
- <blockquote class="imgur-embed-pub" lang="en" data-id="g6lLj3M"><a href="https://imgur.com/g6lLj3M">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/g6lLj3M.png[/img]
  
